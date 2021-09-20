@@ -1,3 +1,11 @@
+# Education - React Hooks and Context API
+
+## Simple Expense Tracker using React Hooks and Context API
+
+Starter code based on a React version of Brad Traversy's [Vanilla JS Expense Tracker](https://github.com/bradtraversy/vanillawebprojects/tree/master/expense-tracker). It uses functional components with hooks and the context API. 
+
+[Brad Traversy - Build an Expense Tracker | React Hooks & Context API](https://youtu.be/XuFDcZABiDQ)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
