@@ -3,6 +3,7 @@ import {GlobalContext} from '../context/GlobalState';
 
 function Balance() {
   const {transactions} = useContext(GlobalContext);
+
   const balance = transactions
     .reduce((acc, trans) => acc + trans.amount, 0)
     .toFixed(2);
